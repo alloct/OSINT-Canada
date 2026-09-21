@@ -130,6 +130,7 @@ Good luck! :camera:
 - **[411.ca Business Directory](https://411.ca/business-directory/on)** - Business directory for Ontario.
 - **[TSX Listed Company Directory](https://www.tsx.com/listings/listing-with-us/listed-company-directory)** - Directory of companies listed on the Toronto Stock Exchange.
 - **[Find a Teacher](https://www.oct.ca/Home/FindATeacher)** - Search for teachers registered with the Ontario College of Teachers.
+- **[Business Registrations](https://www.appmybizaccount.gov.on.ca/onbis/master/viewInstance/view.pub?id=3abd3bce3cc0ad2a1a386da40c119a72e77b7e3b654bb2ea&_timestamp=140880118197875)** - Search for business registrations by name.
 
 **Land and Property Information**
 - **[FamilySearch Ontario Land and Property](https://www.familysearch.org/wiki/en/Ontario_Land_and_Property)** - Information on land and property records in Ontario.
