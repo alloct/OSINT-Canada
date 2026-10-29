@@ -53,6 +53,7 @@ Good luck! :camera:
 - [SEDAR](https://sedar.com/search/search_form_pc_en.htm) - Securities filings.
 - [ImportKey](https://importkey.com/) - Import/export data.
 - [Canada Post Postal Code Lookup](https://www.canadapost-postescanada.ca/info/mc/personal/postalcode/fpc.jsf) - Postal code lookup.
+- [Insider Express](https://insiderexpress.ca) - Insider trades, MP and senator holdings, lobbying, donations and federal contracts in one search.
 
 ### **Legal and Court Information**
   - [CanLII - Canadian Legal Information Institute](https://www.canlii.org/en/) - Comprehensive legal resources.
